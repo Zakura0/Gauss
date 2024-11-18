@@ -1,0 +1,44 @@
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\Gauss_Vfn.csprojAssemblyReference.cache
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\Gauss.g.cs
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\Gauss.baml
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\Gauss_Vfn.csproj.GenerateResource.cache
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\Gauss_Vfn.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\skazemi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss_Vfn.csprojAssemblyReference.cache
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss.g.cs
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\App.g.cs
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss.baml
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss_Vfn.csproj.GenerateResource.cache
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss_Vfn.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss_Vfn.csprojAssemblyReference.cache
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss.g.cs
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\App.g.cs
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss.baml
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\Gauss_Vfn.csproj.GenerateResource.cache
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\Gauß_final\WpfApp1\obj\Debug\WpfApp1.pdb

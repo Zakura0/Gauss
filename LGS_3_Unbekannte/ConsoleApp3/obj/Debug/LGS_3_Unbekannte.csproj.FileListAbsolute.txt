@@ -1,0 +1,13 @@
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\LGS_3_Unbekannte.csprojAssemblyReference.cache
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\LGS_3_Unbekannte.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\skazemi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\LGS_3_Unbekannte\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\LGS_3_Unbekannte\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\LGS_3_Unbekannte\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\LGS_3_Unbekannte\ConsoleApp3\obj\Debug\LGS_3_Unbekannte.csprojAssemblyReference.cache
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\LGS_3_Unbekannte\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\LGS_3_Unbekannte\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,54 @@
+﻿<Window x:Class="Gauss_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gauss_UI"
+        mc:Ignorable="d"
+        Title="Gaußsches Eliminierungsverfahren" Height="450" Width="800" ResizeMode="NoResize">
+
+
+    <Grid>
+        <Button Click="BEintrag_Click" Visibility="Hidden" IsDefault="True" x:Name="bEintrag" Content="Nächster Eintrag" HorizontalAlignment="Left" Margin="92,164,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="bBerechnen" Content="Berechnen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="302,333,0,0" Cursor="Arrow" Click ="Berechnen_Click" Height="30" Grid.Row="1" FontSize="16" Visibility="Hidden">
+            <Button.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="LightSteelBlue" Offset="0"/>
+                    <GradientStop Color="White" Offset="2"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="bNeu" Content="Neue Eingabe" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="327,373,0,0" Cursor="Arrow" Click ="Neu_Click" Height="20" Grid.Row="1" Background="#FF57BFBF" Visibility="Hidden"/>
+        <StackPanel Background="#FF06064B" Margin="0,-1,0,375" Grid.RowSpan="2">
+            <Label Foreground="White" FontSize="20" 
+             HorizontalAlignment="Center">Das Gaußsche Eliminierungverfahren</Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" x:Name="spMatrix" Visibility="Visible"  Margin="10,42,432,289" Grid.Row="1">
+            <Rectangle Width="5"/>
+            <Rectangle Width="5"/>
+            <TextBox x:Name="tbZeilen" Width="23" Margin="0,0,0,36" Height="20" VerticalAlignment="Bottom"/>
+            <Label Width="54" FontSize="16" Content="Zeilen" Margin="0,10,0,0"/>
+            <TextBox x:Name="tbSpalten" Width="23" Margin="0,0,0,36" Height="20" VerticalAlignment="Bottom"/>
+            <Label  Width="73" FontSize="16" Content="Spalten" Margin="0,10,0,0"/>
+            <Button x:Name="tButton" Margin="10,16,5,38" Width="35" Content="✓" Click="TButton_Click"/>
+        </StackPanel>
+        <Label Visibility="Hidden" x:Name="lEintrag" Content="" HorizontalAlignment="Left" Margin="10,123,0,0" Grid.Row="1" VerticalAlignment="Top" Height="36" Width="286" FontSize="16"/>
+        <Label x:Name="lInfo" Content="" HorizontalAlignment="Left" Margin="10,189,0,0" Grid.Row="1" VerticalAlignment="Top" Height="80" Width="286" FontSize="16" Visibility="Hidden"/>
+        <Label x:Name="lInfo4" Content="" HorizontalAlignment="Left" Margin="10,99,0,0" Grid.Row="1" VerticalAlignment="Top" Height="80" Width="286" FontSize="16" Visibility="Hidden"/>
+        <Label x:Name="lInfo3" Content="" HorizontalAlignment="Left" Margin="10,184,0,0" Grid.Row="1" VerticalAlignment="Top" Height="40" Width="772" FontSize="20" FontWeight="Bold" Foreground="#FF092C5F" Visibility="Hidden"/>
+        <Label Visibility="Hidden" x:Name="lInfo2" Content="Das Gleichungssystem hat keine Lösung!" HorizontalAlignment="Left" Margin="16,292,0,0" Grid.Row="1" VerticalAlignment="Top" Height="36" Width="295" FontSize="16"/>
+        <Label x:Name="lEing" Content="Eigegebene Matrix:" HorizontalAlignment="Left" Margin="509,55,0,0" Grid.Row="1" VerticalAlignment="Top" Height="45" Width="273" FontSize="18" Visibility="Hidden"/>
+        <Label Content="Eingabe der Matrix:" HorizontalAlignment="Left" Margin="14,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" FontSize="16"/>
+        <Label x:Name="llmenge" Content="" HorizontalAlignment="Left" Margin="0,269,0,0" Grid.Row="1" VerticalAlignment="Top" Width="794" FontSize="20" FontWeight="Bold" Background="#FF06064B" Foreground="White" Visibility="Hidden"/>
+        <Label x:Name="llösg" Content="Gelöste Matrix:" HorizontalAlignment="Left" Margin="511,55,0,0" Grid.Row="1" VerticalAlignment="Top" Height="45" Width="273" FontSize="18" Visibility="Hidden"/>
+        <TextBox Visibility="Hidden" x:Name="tbEintrag" HorizontalAlignment="Left" Height="20" Margin="16,164,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="56"/>
+        <TextBlock x:Name="tblMatrix" HorizontalAlignment="Left" Height="276" Margin="509,105,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273" FontSize="18" FontWeight="Bold"/>
+        <TextBlock x:Name="tblJordan" HorizontalAlignment="Left" Height="210" Margin="509,105,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273" FontSize="18" FontWeight="Bold"/>
+        <TextBlock x:Name="tblbsp" Visibility="Hidden" HorizontalAlignment="Left" Margin="20,213,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="187" Width="109" FontSize="14"><Run Text="Bsp:"/><LineBreak/><Run/><LineBreak/><Run Text="    1 2 3 4 | 5"/><LineBreak/><Run Text="1  a b c d | e"/><LineBreak/><Run Text="2  a b c d | e"/><LineBreak/><Run Text="3  a b c d | e"/><LineBreak/><Run Text="4  a b c d | e"/><LineBreak/><Run Text="5  a b c d | e"/><LineBreak/><Run Text=""/><LineBreak/><Run Text="Mit (Zeile, Spalte"/><Run Text=")"/></TextBlock>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="412*"/>
+        </Grid.RowDefinitions>
+    </Grid>
+
+</Window>

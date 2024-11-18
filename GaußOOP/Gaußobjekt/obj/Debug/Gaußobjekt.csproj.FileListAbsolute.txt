@@ -1,0 +1,20 @@
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\bin\Debug\Gaußobjekt.exe.config
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\bin\Debug\Gaußobjekt.exe
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\bin\Debug\Gaußobjekt.pdb
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\obj\Debug\Gaußobjekt.csprojAssemblyReference.cache
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\obj\Debug\Gaußobjekt.csproj.CoreCompileInputs.cache
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\obj\Debug\Gaußobjekt.exe
+c:\users\skazemi\source\repos\Gaußobjekt\Gaußobjekt\obj\Debug\Gaußobjekt.pdb
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\bin\Debug\Gaußobjekt.exe.config
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\bin\Debug\Gaußobjekt.exe
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\bin\Debug\Gaußobjekt.pdb
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.csprojAssemblyReference.cache
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.csproj.CoreCompileInputs.cache
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.exe
+C:\Users\skazemi\source\repos\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\GaußOOP\Gaußobjekt\bin\Debug\Gaußobjekt.exe.config
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\GaußOOP\Gaußobjekt\bin\Debug\Gaußobjekt.exe
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\GaußOOP\Gaußobjekt\bin\Debug\Gaußobjekt.pdb
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.csprojAssemblyReference.cache
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.exe
+C:\Users\skazemi\Desktop\VS Projekte\Eliminierungsverfahren\GaußOOP\Gaußobjekt\obj\Debug\Gaußobjekt.pdb
